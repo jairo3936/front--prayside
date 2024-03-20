@@ -1,5 +1,5 @@
+import Login from "./pages/login/login";
+
 export default function Root(){
-  return (
-    <h1>Hola mundo</h1>
-  )
+  return <Login/>
 }
